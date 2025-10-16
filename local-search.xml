@@ -87,11 +87,38 @@
   
   
   <entry>
+    <title>docker打包</title>
+    <link href="/2025/10/16/docker_fengzhuang/"/>
+    <url>/2025/10/16/docker_fengzhuang/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>小妙招</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+      <tag>docker</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ssh远程连接两个局域网主机</title>
     <link href="/2025/10/16/ssh_lianjie/"/>
     <url>/2025/10/16/ssh_lianjie/</url>
     
-    <content type="html"><![CDATA[<h2 id="使用一台公网服务器作为跳板"><a href="#使用一台公网服务器作为跳板" class="headerlink" title="使用一台公网服务器作为跳板"></a>使用一台公网服务器作为跳板</h2><p>局域网内服务器执行：ssh -R 2222:localhost:22 <a href="mailto:&#97;&#x71;&#x64;&#117;&#64;&#x31;&#48;&#46;&#49;&#x30;&#50;&#x2e;&#x33;&#x34;&#46;&#55;&#48;">aqdu@10.102.34.70</a> -p 7001<br>本地局域网内主机执行：ssh -p 2222 <a href="mailto:&#100;&#x61;&#113;&#64;&#x31;&#x30;&#x2e;&#49;&#48;&#50;&#46;&#x33;&#x34;&#x2e;&#55;&#x30;">daq@10.102.34.70</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="使用一台公网服务器作为跳板"><a href="#使用一台公网服务器作为跳板" class="headerlink" title="使用一台公网服务器作为跳板"></a>使用一台公网服务器作为跳板</h2><h3 id="局域网内服务器执行："><a href="#局域网内服务器执行：" class="headerlink" title="局域网内服务器执行："></a>局域网内服务器执行：</h3> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh -R 2222:localhost:22 用户名@服务器公网ip -p 连接的服务器的端口如果是22可以不指定<br></code></pre></td></tr></table></figure><h3 id="本地局域网内主机执行："><a href="#本地局域网内主机执行：" class="headerlink" title="本地局域网内主机执行："></a>本地局域网内主机执行：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh -p 2222 局域网服务器用户名@服务器公网ip<br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
