@@ -91,7 +91,7 @@
     <link href="/2025/10/16/ssh_lianjie/"/>
     <url>/2025/10/16/ssh_lianjie/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="使用一台公网服务器作为跳板"><a href="#使用一台公网服务器作为跳板" class="headerlink" title="使用一台公网服务器作为跳板"></a>使用一台公网服务器作为跳板</h2><p>局域网内服务器执行：ssh -R 2222:localhost:22 <a href="mailto:&#x61;&#x71;&#100;&#x75;&#x40;&#49;&#48;&#46;&#x31;&#48;&#50;&#46;&#51;&#x34;&#46;&#55;&#x30;">aqdu@10.102.34.70</a> -p 7001<br>本地局域网内主机执行：ssh -p 2222 <a href="mailto:&#100;&#x61;&#x71;&#64;&#x31;&#48;&#x2e;&#49;&#x30;&#50;&#x2e;&#x33;&#x34;&#x2e;&#55;&#48;">daq@10.102.34.70</a></p>]]></content>
     
     
     <categories>
