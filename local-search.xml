@@ -4,16 +4,20 @@
   
   
   <entry>
-    <title>111</title>
-    <link href="/2025/10/16/article2/"/>
-    <url>/2025/10/16/article2/</url>
+    <title></title>
+    <link href="/2025/10/16/article4/"/>
+    <url>/2025/10/16/article4/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="图解大模型"><a href="#图解大模型" class="headerlink" title="图解大模型"></a>图解大模型</h1><h2 id="2-16分词器的属性"><a href="#2-16分词器的属性" class="headerlink" title="2.16分词器的属性"></a>2.16分词器的属性</h2>]]></content>
     
     
     <categories>
       
       <category>AI安全学习之路</category>
+      
+      <category>书籍</category>
+      
+      <category>图解大模型</category>
       
     </categories>
     
@@ -21,8 +25,6 @@
     <tags>
       
       <tag>原创</tag>
-      
-      <tag>ai安全</tag>
       
     </tags>
     
@@ -58,9 +60,36 @@
   
   
   <entry>
+    <title>111</title>
+    <link href="/2025/10/16/article2/"/>
+    <url>/2025/10/16/article2/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>AI安全学习之路</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+      <tag>ai安全</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ssh远程连接两个局域网主机</title>
-    <link href="/2025/10/16/article1/"/>
-    <url>/2025/10/16/article1/</url>
+    <link href="/2025/10/16/ssh_lianjie/"/>
+    <url>/2025/10/16/ssh_lianjie/</url>
     
     <content type="html"><![CDATA[]]></content>
     
